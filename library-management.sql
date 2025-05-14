@@ -1,0 +1,19 @@
+DROP TABLE IF EXISTS Loans;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
